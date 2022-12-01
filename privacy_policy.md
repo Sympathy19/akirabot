@@ -1,3 +1,5 @@
+#about the data we store
+
 The information stored is purely based on a functional purpose, 
 Data collected varies from; UserData, UserMessages, or ServerData.
 
