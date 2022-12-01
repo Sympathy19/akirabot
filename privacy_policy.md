@@ -14,5 +14,5 @@ Said data is required to continue functionality and nothing sensitive is stored,
 
 # HOW LONG WILL WE STORE THIS DATA
 The data we have stored will be removed/destroyed within a set time, this set time for data deletion will be determined on a case by case basis, 
-**NOT ALL DATA** will be removed/destroyed from our database, data deletion/removal will be purely based on unnessary items to keep long such as;
+**NOT ALL DATA** will be removed/destroyed from our database, data deletion/removal will be purely based on unnessary items to keep **longterm** such as;
 *ServerMessages*, *Giveaways/Polls*, and more to be determined at a later date.
