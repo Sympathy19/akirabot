@@ -1,6 +1,3 @@
-
-
-
 # ABOUT THE DATA WE STORE
 The information, **We** store within our **DISCORD BOT**, is purely related to the longterm functionality of the application itself.
 
