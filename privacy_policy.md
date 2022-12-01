@@ -2,9 +2,9 @@
 
 
 # ABOUT THE DATA WE STORE
-The information, **We** store within our **DISCORD BOT**, is purely related to the longterm functionaliity of the application itself.
+The information, **We** store within our **DISCORD BOT**, is purely related to the longterm functionality of the application itself.
 
-Data collected varies from; UserData, UserMessages, or ServerData.
+Data collected varies from; *UserData, UserMessages, or ServerData*.
 
 User Information that is based around a certain function cannot be removed, unless said user opts out of interactions with the specific function.
 
