@@ -1,5 +1,2 @@
-# akirabot
-
-
-# test
-privacy_policy.md [Contribution guidelines for this project]()
+# Our Privacy Policy
+[Our Privacy Policy](privacy_policy.md)
