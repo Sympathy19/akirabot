@@ -11,7 +11,7 @@ Said data is required to continue functionality and nothing sensitive is stored,
 # ABOUT THE DATA WE STORE
 The information, **We** store within our **DISCORD BOT**, is purely related to the longterm functionaliity of the application itself.
 
-We do not wish to store user data longer than we possible have to. 
+We do not wish to store user data longer than we possible have to. \n
 The **End-User** at some point in the future will be able to opt out of certain data collections. 
 
 Data that we store 
