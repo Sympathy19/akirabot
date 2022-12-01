@@ -1,2 +1,5 @@
+# Our Terms of Service
+[Terms of Service](tos.md)
+
 # Our Privacy Policy
-[Our Privacy Policy](privacy_policy.md)
+[Privacy Policy](privacy_policy.md)
