@@ -15,5 +15,4 @@ The data we have stored will be removed/destroyed within a set time (15-31 days)
 *ServerMessages*, *Giveaways/Polls*, and more to be determined at a later date.
 
 # TO REQUEST DATA DELETION
-JOIN OUR SERVER: https://https://discord.gg/dbs then create a ticket and request data deletion, 
-**Disclaimer** *User warnings and message content (in bulk) from a given user cannot be deleted from a server without server admins/owners request
+as of currently there is no data stored that can be deleted 
